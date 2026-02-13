@@ -1,1 +1,10 @@
 /app.yaml
+__pycache__/
+.venv/
+venv/
+env/
+
+.pytest_cache/
+.vscode/
+.env
+*.env
