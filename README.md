@@ -4,4 +4,4 @@ This project is a REST API that uses OAuth-based authentication (via Auth0) to c
 
 The API works by validating incoming requests using JSON Web Tokens (JWTs) issued by Auth0. Clients authenticate with Auth0 to obtain an access token, then include that token with API requests. The server verifies the token’s signature and claims before allowing access to protected routes, and uses Google Cloud services for hosting/configuration and for storing application data.
 
-This was an assignment for CS 493 at Oregon State University.
+This was an assignment for a class I took in university.
